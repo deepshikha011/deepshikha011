@@ -20,7 +20,7 @@
 Bachelor of Engineering – Information Science & Engineering  
 📍 Bengaluru, India  
 📅 2022 – 2026  
-🎯 CGPA: **8.2**
+🎯 CGPA: **8.3**
 
 ---
 
@@ -127,13 +127,13 @@ Bachelor of Engineering – Information Science & Engineering
 
 ## 🔗 Let's Connect
 <p align="center">
-  <a href="mailto:deepsh233@gmail.com">
+  <a href="mailto:deepshikhav.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/deepshikha011">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/deepshikha-vishwa-karma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
