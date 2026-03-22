@@ -70,16 +70,6 @@ Bachelor of Engineering – Information Science & Engineering
 
 ---
 
-### 🔹 Quiz Application  
-**Java | Object-Oriented Programming**  
-📅 Jan 2025 – Feb 2025  
-
-- Developed a **console-based quiz application** using core Java  
-- Designed modular classes for quiz flow and scoring  
-- Performed **unit testing and debugging** for stable execution  
-
----
-
 ## 🎓 Training & Certifications
 - **Full Stack Java Training** – TNS India Foundation  
   *(Java, Spring Boot, PostgreSQL, API Testing)*  
